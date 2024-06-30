@@ -22,8 +22,11 @@ Para discutir como posso ajudar sua empresa a alcançar seus objetivos, entre em
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucassantossouza&show_icons=true&theme=radical)_![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantossouza&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantossouza&layout=compact&theme=radical)
+<!-- quero que as estatisticas fique em mesma linha -->
+<div style="width: 100vw; display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassantossouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassantossouza&theme=radical" alt="GitHub Streak" width="50%">
+</div>
 
 ---
 
