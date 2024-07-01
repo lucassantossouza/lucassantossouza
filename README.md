@@ -1,6 +1,18 @@
-# Olá, Eu sou Lucas!
+<!-- # Olá, Eu sou Lucas! -->
+<div align="center">
+  <h1>Olá, Eu sou Lucas!</h1>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucassantossouza/)&emsp;[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:lucassouzamda@gmail.com)&emsp;[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/lucassantossouza)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucassantossouza/)&emsp;[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:lucassouzamda@gmail.com)&emsp;[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/lucassantossouza) -->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucassantossouza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&emsp;
+  <a href="mailto:lucassouzamda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</div>
 
 ---
 
@@ -22,11 +34,16 @@ Para discutir como posso ajudar sua empresa a alcançar seus objetivos, entre em
 
 ## 📈 Estatísticas do GitHub
 
-<!-- quero que as estatisticas fique em mesma linha -->
-<div style="width: 100vw; display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassantossouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassantossouza&theme=radical" alt="GitHub Streak" width="50%">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lucassantossouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassantossouza&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
